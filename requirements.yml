@@ -1,2 +1,3 @@
 ---
--src: https://github.com/robertdebock/ansible-role-bootstrap.git
+- name: robertdebock.bootstrap
+  src: https://github.com/robertdebock/ansible-role-bootstrap
