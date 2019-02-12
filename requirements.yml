@@ -1,3 +1,9 @@
 ---
 - name: robertdebock.bootstrap
   src: https://github.com/robertdebock/ansible-role-bootstrap
+
+- name: ansible-role-zabbix_repository
+  src: https://github.com/robertdebock/ansible-role-zabbix_repository.git
+
+- name: zabbix_repository
+  src: https://github.com/robertdebock/ansible-role-zabbix_repository.git
